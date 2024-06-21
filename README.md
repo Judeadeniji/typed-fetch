@@ -3,6 +3,7 @@ A simple fetch wrapper that allows you to type the response of the fetch request
 
 ## Installation
 ```bash
+# not installable yet
 npm install typed-fetch
 ```
 
