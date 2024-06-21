@@ -1,0 +1,32 @@
+{
+  "name": "typed-fetch",
+  "version": "0.0.1",
+  "description": "Platform fetch() extended with full type safety",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Judeadeniji/typed-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "https",
+    "promise",
+    "request",
+    "whatwg"
+  ],
+  "author": "Adeniji  Oluwaferanmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Judeadeniji/typed-fetch/issues"
+  },
+  "homepage": "https://github.com/Judeadeniji/typed-fetch#readme",
+  "devDependencies": {
+    "@types/bun": "^1.1.4",
+    "@types/node": "^20.14.6",
+    "typescript": "^5.4.5"
+  }
+}
